@@ -6,13 +6,13 @@ def checkSides(a, b, c):
     if (a == b == c):
         print("The triangle is equilateral.")
         return
-    if (b == a) or (c == b) or (a == c):
+    elif (b == a) or (c == b) or (a == c):
         print("The triangle is isosceles.")
                
-    if (a*a+b*b == c*c) or (a*a + c*c == b*b) or (b*b+c*c == a*a):
+    elif (a*a+b*b == c*c) or (a*a + c*c == b*b) or (b*b+c*c == a*a):
         print ("The triangle is rectangular.")
     else:
-        print ("The triangle is varsatile.")
+        print ("The triangle is versatile.")
 
 a = float (input ("Please enter a value side, a: "))
 b = float (input ("Please enter a value side, b: "))
