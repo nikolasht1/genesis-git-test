@@ -1,0 +1,8 @@
+“Изучаем Python” – Марк Лутц, 5-е издание, изд. O’Reilly
+
+“Python for DevOps” – Kennedy Behrman, Grig Gheorghiu, Alfredo Deza, Noah Gift, изд. O’Reailly
+
+https://docs.python.org/3/tutorial/index.html
+
+https://www.tutorialspoint.com/flask/index.htm
+
