@@ -1,0 +1,5 @@
+ - for runing command: 
+ - go in folder nginx 
+ - docker run -it -p 1234:80 --memory="1g" --cpus="1.0" -v /home/vagrant/Projects/lesson5/nginx/app/:/opt/app/ nginx
+ - change somethings in directory on the host ...../nginx/app/index.html
+ - reload page in browser 127.0.0.1:1234
